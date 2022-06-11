@@ -1,4 +1,4 @@
- ## Repo Name
+ ## About
 
  **py_audio_processing** - Is a repository created to host all the scripts & notebooks I use for
  audio processing and analysis related to audio/music.
